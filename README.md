@@ -1,2 +1,2 @@
 # Correcao-Avaliacao-HTML
-Correção da primeira avaliação HTML
+Correção da atividade Projeto-Fashion HTML
